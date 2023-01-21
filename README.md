@@ -16,3 +16,5 @@ There are three methods that can be used for finding data correlation in Python.
 
 3. Analyzing results:
 using corr_pairs.sort_values() to find the most correlated features to gross income which are budget and votes respectively. 
+
+![corr](https://user-images.githubusercontent.com/94001532/213874312-470047a4-737e-4f6d-9c88-65956e09606f.PNG)
